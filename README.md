@@ -43,7 +43,6 @@ The next big thing gets built by the people who can hold several at once and wir
 
 - Peer-reviewed research: a CNN tuned with a genetic algorithm for COVID-19 X-rays ([IEEE](https://ieeexplore.ieee.org/document/9617546)), open instruction-tuned LLMs for Indonesian languages ([arXiv](https://arxiv.org/html/2404.06138v1)).
 - A few things I have put out: [Verbal-Communication-Trainer](https://github.com/zaza-ipynb/Verbal-Communication-Trainer) · [ai-test-personality](https://github.com/zaza-ipynb/ai-test-personality) · [OpenCV from scratch](https://github.com/zaza-ipynb/OpenCV)
-- My portfolio is a small world you walk through, where a fairy named Ako acts out each project she built → **[www.ihzamuhammad.com](https://www.ihzamuhammad.com)**
 
 ---
 
