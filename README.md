@@ -12,7 +12,7 @@ The next big thing gets built by the people who can hold several at once and wir
 </i></p>
 
 <p align="center">
-  <a href="https://my-journey-five-eta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-walk%20through%20it-25344F?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.ihzamuhammad.com"><img src="https://img.shields.io/badge/Portfolio-walk%20through%20it-25344F?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/muhammad-ihza-mahendra-065a0817b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/zazaaa_desu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="mailto:ihzamuhammad46@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -43,7 +43,7 @@ The next big thing gets built by the people who can hold several at once and wir
 
 - Peer-reviewed research: a CNN tuned with a genetic algorithm for COVID-19 X-rays ([IEEE](https://ieeexplore.ieee.org/document/9617546)), open instruction-tuned LLMs for Indonesian languages ([arXiv](https://arxiv.org/html/2404.06138v1)).
 - A few things I have put out: [Verbal-Communication-Trainer](https://github.com/zaza-ipynb/Verbal-Communication-Trainer) · [ai-test-personality](https://github.com/zaza-ipynb/ai-test-personality) · [OpenCV from scratch](https://github.com/zaza-ipynb/OpenCV)
-- My portfolio is a small world you walk through, where a fairy named Ako acts out each project she built → **[my-journey-five-eta.vercel.app](https://my-journey-five-eta.vercel.app)**
+- My portfolio is a small world you walk through, where a fairy named Ako acts out each project she built → **[www.ihzamuhammad.com](https://www.ihzamuhammad.com)**
 
 ---
 
